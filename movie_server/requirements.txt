@@ -1,0 +1,7 @@
+Project 'SimpleWebApp' has the following package references
+   [net7.0]: 
+   Top-level Package             Requested   Resolved
+   > Mysql.Data                  9.1.0       9.1.0   
+   > Newtonsoft.Json             13.0.3      13.0.3  
+   > Swashbuckle.AspNetCore      6.9.0       6.9.0   
+
